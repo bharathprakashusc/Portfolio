@@ -62,7 +62,8 @@ export const skillCategories: SkillCategory[] = [
     skills: [
       { name: 'PyTorch', icon: SiPytorch, color: '#ee4c2c' },
       { name: 'TensorFlow', icon: SiTensorflow, color: '#ff6f00' },
-      { name: 'LangGraph', icon: FaBrain, color: '#00d4ff' },
+      { name: 'RAG Pipeline', icon: FaBrain, color: '#00d4ff' },
+      { name: 'LangGraph', icon: FaBrain, color: '#a78bfa' },
       { name: 'Computer Vision', icon: FaBrain, color: '#8b5cf6' },
       { name: 'NLP', icon: FaBrain, color: '#06b6d4' },
       { name: 'Deep Learning', icon: FaBrain, color: '#a78bfa' },
