@@ -2,7 +2,7 @@ import {
   SiPython, SiCplusplus, SiJavascript, SiReact, SiSpringboot,
   SiPytorch, SiTensorflow, SiGooglecloud,
   SiMysql, SiPostgresql, SiApachehadoop, SiDocker, SiGit,
-  SiHtml5, SiR, SiQualcomm, SiRedis, SiKubernetes,
+  SiHtml5, SiR, SiQualcomm, SiRedis, SiKubernetes, SiMongodb,
 } from 'react-icons/si';
 import { FaDatabase, FaBrain, FaCode, FaServer, FaJava, FaAws, FaMicrosoft, FaCss3Alt } from 'react-icons/fa';
 import type { IconType } from 'react-icons';
@@ -94,6 +94,7 @@ export const skillCategories: SkillCategory[] = [
       { name: 'Apache Spark', icon: FaDatabase, color: '#e25a1c' },
       { name: 'PowerBI', icon: FaDatabase, color: '#f2c811' },
       { name: 'Hadoop', icon: SiApachehadoop, color: '#66ccff' },
+      { name: 'MongoDB', icon: SiMongodb, color: '#47a248' },
     ],
   },
 ];
