@@ -81,6 +81,7 @@ export const skillCategories: SkillCategory[] = [
       { name: 'Kubernetes', icon: SiKubernetes, color: '#326ce5' },
       { name: 'Git', icon: SiGit, color: '#f05032' },
       { name: 'Redis', icon: SiRedis, color: '#dc382d' },
+      { name: 'Distributed Systems', icon: FaServer, color: '#94a3b8' },
     ],
   },
   {
